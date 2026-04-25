@@ -1,0 +1,12 @@
+{
+  "name": "VocalGuard AI",
+  "description": "AI-powered speech analysis for early throat disease detection using advanced machine learning patterns.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Speech Processing",
+    "Machine Learning",
+    "Health AI"
+  ]
+}
